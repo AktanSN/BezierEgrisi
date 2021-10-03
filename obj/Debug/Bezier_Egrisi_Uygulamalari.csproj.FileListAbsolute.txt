@@ -1,0 +1,64 @@
+C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\bin\Debug\howto_draw_bezier_by_hand.exe
+C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\bin\Debug\howto_draw_bezier_by_hand.pdb
+C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\obj\Debug\howto_draw_bezier_by_hand.exe
+C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\obj\Debug\howto_draw_bezier_by_hand.pdb
+C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\obj\Debug\Bezier_Egrisi.AnaForm.resources
+C:\Documents and Settings\EW\Desktop\Bezier_Egrisi_Uygulamalari\bin\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Documents and Settings\EW\Desktop\Bezier_Egrisi_Uygulamalari\bin\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Documents and Settings\EW\Desktop\Bezier_Egrisi_Uygulamalari\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\EW\Desktop\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi.AnaForm.resources
+C:\Documents and Settings\EW\Desktop\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+C:\Documents and Settings\EW\Desktop\Bezier_Egrisi_Uygulamalari\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\EW\Desktop\Bezier_Egrisi_Uygulamalari\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\EW\Desktop\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Documents and Settings\EW\Desktop\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+F:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+F:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+F:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\bin\Debug\Bezier_Egrisi_Uygulamalari.exe
+F:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\bin\Debug\Bezier_Egrisi_Uygulamalari.pdb
+F:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\ResolveAssemblyReference.cache
+F:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi.AnaForm.resources
+F:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+F:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+G:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+G:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\bin\Debug\Bezier_Egrisi_Uygulamalari.exe
+G:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\bin\Debug\Bezier_Egrisi_Uygulamalari.pdb
+G:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\ResolveAssemblyReference.cache
+G:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi.AnaForm.resources
+G:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+G:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\GenerateResource-ResGen.write.1.tlog
+I:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+I:\DOKTORA\IKINCI_YARIYIL\BILGISAYARLI_MODELLEME_VE_YZ_UYGULAMALARI\DERS_1\UYGULAMA\Bezier_Egrisi_Uygulamalari\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+E:\m_laptop_masaustunde\SDU_DERSLER\2019-2020\2_BAHAR\Grafik_ve_Animasyon_[L]\Vize_ders_notlari\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+E:\m_laptop_masaustunde\SDU_DERSLER\2019-2020\2_BAHAR\Grafik_ve_Animasyon_[L]\Vize_ders_notlari\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+E:\m_laptop_masaustunde\SDU_DERSLER\2019-2020\2_BAHAR\Grafik_ve_Animasyon_[L]\Vize_ders_notlari\Bezier_KAYNAK_KOD_(VisualStudio)\bin\Debug\Bezier_Egrisi_Uygulamalari.exe
+E:\m_laptop_masaustunde\SDU_DERSLER\2019-2020\2_BAHAR\Grafik_ve_Animasyon_[L]\Vize_ders_notlari\Bezier_KAYNAK_KOD_(VisualStudio)\bin\Debug\Bezier_Egrisi_Uygulamalari.pdb
+E:\m_laptop_masaustunde\SDU_DERSLER\2019-2020\2_BAHAR\Grafik_ve_Animasyon_[L]\Vize_ders_notlari\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.csprojResolveAssemblyReference.cache
+E:\m_laptop_masaustunde\SDU_DERSLER\2019-2020\2_BAHAR\Grafik_ve_Animasyon_[L]\Vize_ders_notlari\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi.AnaForm.resources
+E:\m_laptop_masaustunde\SDU_DERSLER\2019-2020\2_BAHAR\Grafik_ve_Animasyon_[L]\Vize_ders_notlari\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+E:\m_laptop_masaustunde\SDU_DERSLER\2019-2020\2_BAHAR\Grafik_ve_Animasyon_[L]\Vize_ders_notlari\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.csproj.GenerateResource.Cache
+C:\Users\aktan\OneDrive\Masaüstü\Bezier_KAYNAK_KOD_(VisualStudio)\bin\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\aktan\OneDrive\Masaüstü\Bezier_KAYNAK_KOD_(VisualStudio)\bin\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\aktan\OneDrive\Masaüstü\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.csprojAssemblyReference.cache
+C:\Users\aktan\OneDrive\Masaüstü\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi.AnaForm.resources
+C:\Users\aktan\OneDrive\Masaüstü\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+C:\Users\aktan\OneDrive\Masaüstü\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.csproj.GenerateResource.cache
+C:\Users\aktan\OneDrive\Masaüstü\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\aktan\OneDrive\Masaüstü\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\aktan\OneDrive\Masaüstü\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\altay\Desktop\Bezier_KAYNAK_KOD_(VisualStudio)\bin\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\altay\Desktop\Bezier_KAYNAK_KOD_(VisualStudio)\bin\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\altay\Desktop\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.csprojAssemblyReference.cache
+C:\Users\altay\Desktop\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi.AnaForm.resources
+C:\Users\altay\Desktop\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+C:\Users\altay\Desktop\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.csproj.GenerateResource.cache
+C:\Users\altay\Desktop\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\altay\Desktop\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\altay\Desktop\Bezier_KAYNAK_KOD_(VisualStudio)\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb

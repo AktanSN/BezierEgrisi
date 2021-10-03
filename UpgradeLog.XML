@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="howto_draw_bezier_by_hand">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\EW\Desktop\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand\howto_draw_bezier_by_hand.sln">
+</Property><Property Name="Date" Value="08 Mart 2011 Salı">
+</Property><Property Name="Time" Value="17:54">
+</Property></Properties><Event ErrorLevel="0" Project="howto_draw_bezier_by_hand" Source="howto_draw_bezier_by_hand.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="howto_draw_bezier_by_hand" Source="howto_draw_bezier_by_hand.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="howto_draw_bezier_by_hand.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="howto_draw_bezier_by_hand.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="howto_draw_bezier_by_hand" Source="howto_draw_bezier_by_hand.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
